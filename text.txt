@@ -1,0 +1,1 @@
+'{"OPENAI_API_KEY": "fe_oa_db1e5faeafba0448f027c1335f5bb437f90d3b0591a6f06c"}' | Out-File -FilePath ~\.codex\auth.json -Encoding utf8
